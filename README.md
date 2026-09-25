@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: EcoPriority AI
 emoji: ♻️
@@ -15,3 +16,7 @@ pinned: false
 AI-powered smart waste collection priority prediction system.
 
 This application uses machine learning to predict waste collection priority and overflow risk based on waste-management data.
+=======
+# Smart_Waste_Collection
+Manthan 4.0
+>>>>>>> 6f90ce13875d39ed0a2ac2f7f735f017f3b3fb65
