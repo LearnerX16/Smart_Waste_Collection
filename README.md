@@ -143,7 +143,7 @@ Python 3.10+ recommended.
 
 ### 2. Install
 ```bash
-pip install streamlit pandas numpy scikit-learn plotly joblib matplotlib seaborn
+pip install -r requirements.txt
 ```
 
 ### 3. Run the dashboard
